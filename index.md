@@ -14,5 +14,5 @@ Explore AI as a living ecosystem, evolving from **World AI** to **Embodied AI**â
 # Classification Inspired by OpenAIs Revenue Growth & [Nvidias CEO](https://www.nvidia.com/en-us/solutions/ai/)
 
 <div style="text-align:center; margin-top:2em;">
-  <img src="openai/growth.jpg" width="80%" height="800px" alt="AI Growth Visualization">
+  <img src="openai/growth.jpg" width="80%" height="900px" alt="AI Growth Visualization">
 </div>
