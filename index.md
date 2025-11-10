@@ -1,0 +1,5 @@
+- World AI (1st principles)
+- Perception AI (Inputs from World)
+- Agentic AI (Ritualistic tasks)
+- Generative AI (Creative, inspired)
+- Embodied AI (Integrates, Idealized)
