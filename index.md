@@ -2,14 +2,17 @@
 
 Explore AI as a living ecosystem, evolving from **World AI** to **Embodied AI**—five layers of emergence and agency.
 
-| Layer | Description |
-|-------|-------------|
-| **World AI** | 1st principles: understanding the raw environment, global data, and foundational patterns. |
-| **Perception AI** | Inputs from the world: senses, sensors, and data ingestion pipelines. |
-| **Agentic AI** | Ritualistic tasks: repetitive workflows, automation, and disciplined execution. |
-| **Generative AI** | Creative, inspired: synthesis, extrapolation, and innovation within constraints. |
-| **Embodied AI** | Integrates and idealizes: systemic reasoning, co-adaptation with humans, ethical outputs. |
+| Layer             | Description                                                                                |
+|-------------------|--------------------------------------------------------------------------------------------|
+| **Embodied AI**   | Integrates and idealizes: systemic reasoning, co-adaptation with humans, ethical outputs.  |
+| **Generative AI** | Creative, inspired: synthesis, extrapolation, and innovation within constraints.           |
+| **Agentic AI**    | Ritualistic tasks: repetitive workflows, automation, and disciplined execution.            |
+| **Perception AI** | Inputs from the world: senses, sensors, and data ingestion pipelines.                      |
+| **World AI**      | 1st principles: understanding the raw environment, global data, and foundational patterns. |
+
+
+# Classification Inspired by OpenAIs Revenue Growth & [Nvidias CEO](https://www.nvidia.com/en-us/solutions/ai/)
 
 <div style="text-align:center; margin-top:2em;">
-  <img src="openai/growth.jpg" width="60%" height="500px" alt="AI Growth Visualization">
+  <img src="openai/growth.jpg" width="80%" height="600px" alt="AI Growth Visualization">
 </div>
