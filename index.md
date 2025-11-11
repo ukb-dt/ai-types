@@ -15,7 +15,7 @@ Explore AI as a living ecosystem, evolving from **World AI** to **Embodied AI**â
 - We find this `O)-(O` in plants, animals, and man
    -  `O)-Tree-(O`
    -  `O)-Lungs-(O`
-   -  `O)-Airports-(O`
+   -  [O)-Airports-(O](https://ukb-dt.github.io/o-atl-o-who/)
 
 # [Classification](https://ukb-dt.github.io/ai-types-01/) Inspired by OpenAIs Revenue Growth & [Nvidias CEO](https://www.nvidia.com/en-us/solutions/ai/)
 
