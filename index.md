@@ -11,7 +11,7 @@ Explore AI as a living ecosystem, evolving from **World AI** to **Embodied AI**â
 | **World AI**      | 1st principles: understanding the raw environment, global data, and foundational patterns. |
 
 - No standard classification exists at the moment
-- But ours is rooted in the topology of intelligence found in nature
+- But ours is rooted in the [topology](https://en.wikipedia.org/wiki/Topology) of [engineered](https://en.wikipedia.org/wiki/Hartsfield%E2%80%93Jackson_Atlanta_International_Airport) systems (*TOES*)
 - We find this `O)-(O` in plants, animals, and man
 
 # [Classification](https://ukb-dt.github.io/ai-types-01/) Inspired by OpenAIs Revenue Growth & [Nvidias CEO](https://www.nvidia.com/en-us/solutions/ai/)
