@@ -13,6 +13,9 @@ Explore AI as a living ecosystem, evolving from **World AI** to **Embodied AI**â
 - No standard classification exists at the moment
 - But ours is rooted in the [topology](https://en.wikipedia.org/wiki/Topology) of [engineered](https://en.wikipedia.org/wiki/Hartsfield%E2%80%93Jackson_Atlanta_International_Airport) systems (*TOES*)
 - We find this `O)-(O` in plants, animals, and man
+   -  `O)-Tree-(O`
+   -  `O)-Lungs-(O`
+   -  `O)-Airports-(O`
 
 # [Classification](https://ukb-dt.github.io/ai-types-01/) Inspired by OpenAIs Revenue Growth & [Nvidias CEO](https://www.nvidia.com/en-us/solutions/ai/)
 
