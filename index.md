@@ -5,7 +5,7 @@
 | Layer             | Description                                                                                |
 |-------------------|--------------------------------------------------------------------------------------------|
 | **Embodied AI**   | Integrates and idealizes: systemic reasoning, co-adaptation with humans, ethical outputs.  |
-| **Generative AI** | Creative, inspired: synthesis, extrapolation, and innovation within constraints.           |
+| **[Generative](https://ukb-dt.github.io/alpha/) AI** | Creative, inspired: synthesis, extrapolation, and innovation within constraints.           |
 | **Agentic AI**    | Ritualistic tasks: repetitive workflows, automation, and disciplined execution.            |
 | **Perception AI** | Inputs from the world: senses, sensors, and data ingestion pipelines.                      |
 | **World AI**      | 1st principles: understanding the raw environment, global data, and foundational patterns. |
