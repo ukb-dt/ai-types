@@ -1,4 +1,4 @@
-# AI [Pentad](https://ukb-dt.github.io/ai-types-00/): From World to Embodied Intelligence
+# AI [Pentad](https://ukb-dt.github.io/ai-types-00/)[:](https://www.bbc.com/news/articles/cwy7vrd8k4eo) From World to Embodied Intelligence
 
 [Explore AI](https://ukb-dt.github.io/who-03-ideal-rate/) as a living ecosystem, evolving from **World AI** to **Embodied AI**—five layers of emergence and agency.
 
