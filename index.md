@@ -17,7 +17,7 @@
    -  `O)-Lungs-(O`
    -  [O)-Airports-(O](https://ukb-dt.github.io/o-atl-o-who/)
 
-# [Classification](https://ukb-dt.github.io/ai-types-01/) Inspired by OpenAIs Revenue Growth & [Nvidias CEO](https://www.nvidia.com/en-us/solutions/ai/)
+# [Classification](https://ukb-dt.github.io/ai-types-01/) Inspired by OpenAIs Revenue Growth [&](https://ukb-dt.github.io/alpha/) [Nvidias CEO](https://www.nvidia.com/en-us/solutions/ai/)
 
 <div style="text-align:center; margin-top:2em;">
   <img src="openai/growth.jpg" width="80%" height="900px" alt="AI Growth Visualization">
