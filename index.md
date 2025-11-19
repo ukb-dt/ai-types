@@ -2,6 +2,15 @@
 
 [Explore AI](https://ukb-dt.github.io/who-03-ideal-rate/) as a living ecosystem, evolving from **World AI** to **Embodied AI**—five layers of emergence and agency.
 
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/mJbFcdaZNcc?start=2" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+</iframe>
+
+
 | Layer             | Description                                                                                |
 |-------------------|--------------------------------------------------------------------------------------------|
 | **Embodied AI**   | Integrates and idealizes: systemic reasoning, co-adaptation with humans, ethical outputs.  |
