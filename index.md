@@ -2,13 +2,24 @@
 
 [Explore AI](https://ukb-dt.github.io/who-03-ideal-rate/) as a living ecosystem, evolving from **World AI** to **Embodied AI**—five layers of emergence and agency.
 
-<iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/mJbFcdaZNcc?start=60" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    allowfullscreen>
-</iframe>
+<div style="display:flex; gap:20px;">
+  <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/mJbFcdaZNcc?start=60"
+      title="Video 1"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+  </iframe>
+
+  <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/a4IzEPEZX4E?start=90"
+      title="Video 2"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+  </iframe>
+</div>
+
 
 
 | Layer             | Description                                                                                |
